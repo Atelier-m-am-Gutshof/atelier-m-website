@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+.buttons {
+    text-align: center;
+}
+button {
+    margin: 10px;
+    font-size: xxx-large;
+}
+.index-text {
+    font-family: sans-serif;
+}
+.h1-main {
+    text-align: left;
+}
+.h3-main {
+    text-align: right;
+}
+.header-main {
+    text-align: center;
+}
