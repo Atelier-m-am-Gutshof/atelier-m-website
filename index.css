@@ -24,3 +24,61 @@ button {
 .header-main {
     text-align: center;
 }
+.picturediv1 {
+    text-align: left;
+}
+.picture1{
+    margin: 10px;
+    width: 25%;
+    height: 25%;
+}
+.picturediv2 {   
+    text-align: right;
+}
+.picture2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+    height: 25%;
+}
+.picturediv3 {
+    text-align: left;
+}
+.picture3 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+    height: 25%;
+}
+.picturediv4 {
+    text-align: right;
+}
+.picture4 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+    height: 25%;
+}
+.picturediv5 {
+    text-align: left;
+}
+.picture5 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+    height: 25%;
+}
+.picturediv6 {
+    text-align: right;
+}
+.picture6 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+    height: 25%;
+}
